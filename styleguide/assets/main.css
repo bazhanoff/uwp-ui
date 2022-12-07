@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'SBSansText';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url('../assets/SBSansText-Regular.woff2') format('woff2'),
+        url('../assets/SBSansText-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SBSansText';
+    font-style: italic;
+    font-display: swap;
+    font-weight: 400;
+    src: url('../assets/SBSansText-Italic.woff2') format('woff2'),
+        url('../assets/SBSansText-Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SBSansText';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 600;
+    src: url('../assets/SBSansText-Semibold.woff2') format('woff2'),
+        url('../assets/SBSansText-Semibold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SBSansText';
+    font-style: italic;
+    font-display: swap;
+    font-weight: 600;
+    src: url('../assets/SBSansText-SemiBoldItalic.woff2') format('woff2'),
+        url('../assets/SBSansText-SemiBoldItalic.woff') format('woff');
+}
+
